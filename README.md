@@ -20,6 +20,6 @@ Edit User Data
 
 ![Alt text](https://github.com/TicketMarketTecnologia/crudcrud/blob/main/assets/edit.jpeg?raw=true "Edit List of Users")
 
-Complete CRUS - Read List, Edit and Delete.
+Complete CRUD - Read List, Edit and Delete.
 
 ![Alt text](https://github.com/TicketMarketTecnologia/crudcrud/blob/main/assets/list.jpeg?raw=true "List, Edit, Delete - Complete CRUD")
