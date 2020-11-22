@@ -4,6 +4,7 @@ API Flutter Project Consuming CrudCrud Api Mock using Slidy, Mobx, Modular and D
 
 ## Getting Started
 
+DOWNLOAD APP. https://drive.google.com/file/d/1p5zlWQlVXBD29X3JgADtq1GGNEKI4BW4/view?usp=sharing
 
 The goal was to demonstrate clean and organized code, using Clean Code concepts.
 
